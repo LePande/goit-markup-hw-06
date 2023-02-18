@@ -1,2 +1,2 @@
 # goit-markup-hw-06
-Efectos y elementos decorativos
+Elementos de formulario
